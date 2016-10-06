@@ -1,0 +1,7 @@
+#include(iostream.h)
+include(conio.h)
+{
+clrscr();
+cout<<"hello world";
+getch();
+}
